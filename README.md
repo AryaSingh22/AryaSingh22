@@ -26,24 +26,24 @@
 
 ## 📌 Featured Projects
 
-### 🔹 **On-Chain Subscription Payment System**
+### 🔹 **💳On-Chain Subscription Payment System**
 🔗 [GitHub Repo](https://github.com/AryaSingh22/On-Chain-Subscription-Payment-System)  
 💡 Pull-based recurring payment system for ERC20 tokens with **gas optimization** and **security checks**. 
 
 ---
 
-### 🔹 **Decentralized Escrow with Dispute Resolution**
+### 🔹 **🛡Decentralized Escrow with Dispute Resolution**
 🔗 [GitHub Repo](https://github.com/AryaSingh22/Decentralized-Escrow)  
 💡 Secure escrow contract with **custom signature validation**, **guardian-based recovery**, and **delay-based execution**. 
 
 ---
 
-### 🔹 **ERC-4337 Smart Wallet**
+### 🔹 **🪙ERC-4337 Smart Wallet**
 🔗 [GitHub Repo](https://github.com/AryaSingh22/ERC4337-SmartWallet)  
 💡 Account abstraction wallet with **guardian recovery**, **batch transactions**, and **paymaster gasless transactions**.  
 ---
 
-### 🔹 **Flash Loan Arbitrage Contract**
+### 🔹 **⚡Flash Loan Arbitrage Contract**
 🔗 [GitHub Repo](https://github.com/AryaSingh22/Flash-Loan-Arbitrage)  
 💡 Advanced flash loan logic for **DEX price discrepancies** & **multi-step swaps**. 
 
