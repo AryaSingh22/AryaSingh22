@@ -1,8 +1,3 @@
-<!-- Cyberpunk Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/JnCw0GP.gif" width="100%" alt="Cyberpunk Blockchain Banner">
-</p>
-
 <!-- Typing animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=35&center=true&vCenter=true&width=500&height=70&lines=Hey%2C+I'm+Arya+Singh+👋;Blockchain+%26+Smart+Contract+Developer;DeFi+%7C+NFTs+%7C+Web3;Gas-Optimized+Raw+Solidity+Contracts" />
@@ -33,29 +28,24 @@
 
 ### 🔹 **On-Chain Subscription Payment System**
 🔗 [GitHub Repo](https://github.com/AryaSingh22/On-Chain-Subscription-Payment-System)  
-💡 Pull-based recurring payment system for ERC20 tokens with **gas optimization** and **security checks**.  
-![Subscription GIF](https://i.imgur.com/Y9ZVZVY.gif)
+💡 Pull-based recurring payment system for ERC20 tokens with **gas optimization** and **security checks**. 
 
 ---
 
 ### 🔹 **Decentralized Escrow with Dispute Resolution**
 🔗 [GitHub Repo](https://github.com/AryaSingh22/Decentralized-Escrow)  
-💡 Secure escrow contract with **custom signature validation**, **guardian-based recovery**, and **delay-based execution**.  
-![Escrow GIF](https://i.imgur.com/0nE8mOz.gif)
+💡 Secure escrow contract with **custom signature validation**, **guardian-based recovery**, and **delay-based execution**. 
 
 ---
 
 ### 🔹 **ERC-4337 Smart Wallet**
 🔗 [GitHub Repo](https://github.com/AryaSingh22/ERC4337-SmartWallet)  
 💡 Account abstraction wallet with **guardian recovery**, **batch transactions**, and **paymaster gasless transactions**.  
-![Smart Wallet GIF](https://i.imgur.com/GxlfkIt.gif)
-
 ---
 
 ### 🔹 **Flash Loan Arbitrage Contract**
 🔗 [GitHub Repo](https://github.com/AryaSingh22/Flash-Loan-Arbitrage)  
-💡 Advanced flash loan logic for **DEX price discrepancies** & **multi-step swaps**.  
-![Flash Loan GIF](https://i.imgur.com/kG3h0uH.gif)
+💡 Advanced flash loan logic for **DEX price discrepancies** & **multi-step swaps**. 
 
 ---
 
