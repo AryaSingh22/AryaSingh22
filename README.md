@@ -1,4 +1,6 @@
-<!-- Typing animation -->
+<p>
+  ![Banner](https://raw.githubusercontent.com/AryaSingh22/AryaSingh22/main/Futuristic Blockchain Developer in Neon City.png)
+</p><!-- Typing animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=35&center=true&vCenter=true&width=1000&height=70&lines=Hey%2C+I'm+Arya+Singh+👋;Blockchain+%26+Smart+Contract+Developer;DeFi+%7C+NFTs+%7C+Web3;Gas-Optimized+Raw+Solidity+Contracts" />
 </h1>
