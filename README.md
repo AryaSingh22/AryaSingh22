@@ -1,16 +1,81 @@
-## Hi there 👋
+<!-- Cyberpunk Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/JnCw0GP.gif" width="100%" alt="Cyberpunk Blockchain Banner">
+</p>
 
-<!--
-**AryaSingh22/AryaSingh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=35&center=true&vCenter=true&width=500&height=70&lines=Hey%2C+I'm+Arya+Singh+👋;Blockchain+%26+Smart+Contract+Developer;DeFi+%7C+NFTs+%7C+Web3;Gas-Optimized+Raw+Solidity+Contracts" />
+</h1>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+💻 Blockchain Developer | Solidity | Ethereum Ecosystem  
+⚡ Specializing in **gas-optimized** raw smart contracts (no external libraries)  
+🔐 Passionate about **security, efficiency, and decentralized systems**  
+🌍 Building **open-source tools** for the Web3 community  
+
+---
+
+## 🛠 Tech Stack
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge&logo=hardhat&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-253A5F?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 **On-Chain Subscription Payment System**
+🔗 [GitHub Repo](https://github.com/AryaSingh22/On-Chain-Subscription-Payment-System)  
+💡 Pull-based recurring payment system for ERC20 tokens with **gas optimization** and **security checks**.  
+![Subscription GIF](https://i.imgur.com/Y9ZVZVY.gif)
+
+---
+
+### 🔹 **Decentralized Escrow with Dispute Resolution**
+🔗 [GitHub Repo](https://github.com/AryaSingh22/Decentralized-Escrow)  
+💡 Secure escrow contract with **custom signature validation**, **guardian-based recovery**, and **delay-based execution**.  
+![Escrow GIF](https://i.imgur.com/0nE8mOz.gif)
+
+---
+
+### 🔹 **ERC-4337 Smart Wallet**
+🔗 [GitHub Repo](https://github.com/AryaSingh22/ERC4337-SmartWallet)  
+💡 Account abstraction wallet with **guardian recovery**, **batch transactions**, and **paymaster gasless transactions**.  
+![Smart Wallet GIF](https://i.imgur.com/GxlfkIt.gif)
+
+---
+
+### 🔹 **Flash Loan Arbitrage Contract**
+🔗 [GitHub Repo](https://github.com/AryaSingh22/Flash-Loan-Arbitrage)  
+💡 Advanced flash loan logic for **DEX price discrepancies** & **multi-step swaps**.  
+![Flash Loan GIF](https://i.imgur.com/kG3h0uH.gif)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryaSingh22&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AryaSingh22&theme=tokyonight" height="165">
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/arya-singh-22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aryasingh.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/AryaSingh22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AryaSingh22&style=for-the-badge&color=00F7FF" />
+</p>
