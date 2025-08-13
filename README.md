@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 💻 Blockchain Developer | Solidity | Ethereum Ecosystem  
-⚡ Specializing in **gas-optimized** raw smart contracts 
+⚡ Specializing in **gas-optimized** raw smart contracts            
 🔐 Passionate about **security, efficiency, and decentralized systems**  
 🌍 Building **open-source tools** for the Web3 community  
 
