@@ -28,9 +28,9 @@
 
 ## 📌 Featured Projects
 
-### 🔹 **💳On-Chain Subscription Payment System**
-🔗 [GitHub Repo](https://github.com/AryaSingh22/On-Chain-Subscription-Payment-System)  
-💡 Pull-based recurring payment system for ERC20 tokens with **gas optimization** and **security checks**. 
+### 🔹 **🏛 DAO Governance Dapp**
+🔗 [GitHub Repo](https://github.com/AryaSingh22/DAO-Governance-Dapp)  
+💡 A fully on-chain DAO governance system built with Solidity, enabling proposal creation, voting, and treasury management without centralized control. 
 
 ---
 
