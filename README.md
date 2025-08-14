@@ -40,7 +40,7 @@
 
 ### 🔹 **🪙ERC-4337 Smart Wallet**
 🔗 [GitHub Repo] (https://github.com/AryaSingh22/ERC4337-SmartWallet)   
-💡 Account abstraction wallet with **guardian recovery**, **batch transactions**, and **paymaster gasless transactions**.  
+💡 Account abstraction wallet with guardian recovery, batch transactions, and paymaster gasless transactions. 
 ---
 
 ### 🔹 **⚡Flash Loan Arbitrage Contract**
