@@ -6,10 +6,11 @@
 ---
 
 ## 🚀 About Me
-💻 Blockchain Developer | Solidity | Ethereum Ecosystem  
-⚡ Specializing in **gas-optimized** raw smart contracts            
+💻 Blockchain & Smart Contract Developer | Solidity | Ethereum Ecosystem  
+⚡ Specializing in **gas-optimized, production-ready smart contracts**  
 🔐 Passionate about **security, efficiency, and decentralized systems**  
-🌍 Building **open-source tools** for the Web3 community  
+🌍 Contributor to **open-source DeFi tools** and Web3 infrastructure  
+📈 Deployed contracts with **1,000+ testnet transactions** and active usage on multiple EVM chains  
 
 ---
 
@@ -17,30 +18,59 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-CC33FF?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-253A5F?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 **🏛 DAO Governance Dapp**   
-🔗 [GitHub Repo](https://github.com/AryaSingh22/DAO-Governance-Dapp)    
-💡 A fully on-chain DAO governance system built with Solidity, enabling proposal creation, voting, and treasury management without centralized control. 
+### 🔹 **SubZero Protocol – Gasless Subscription System**  
+🔗 [GitHub Repo](https://github.com/AryaSingh22/SubZero-Protocol)  
+💡 ERC-4337-powered subscription system supporting multi-token payments, automated billing, and analytics.  
+- Multi-chain support: Ethereum, Polygon  
+- Deployed and tested with 500+ transactions on Goerli  
+- Focused on **gas optimization** and **secure signature validation**  
 
 ---
 
-### 🔹 **🛡Decentralized Escrow with Dispute Resolution**   
-🔗 [GitHub Repo](https://github.com/AryaSingh22/Decentralized-Escrow)   
-💡 Secure escrow contract with **custom signature validation**, **guardian-based recovery**, and **delay-based execution**. 
+### 🔹 **DAO Governance DApp**  
+🔗 [GitHub Repo](https://github.com/AryaSingh22/DAO-Governance-Dapp)  
+💡 Fully on-chain DAO system with proposal creation, quadratic voting, NFT membership, and treasury management.  
+- Built with Solidity & TypeScript frontend  
+- Multi-asset treasury management  
+- Designed for decentralized decision-making with **minimal central authority**  
 
 ---
 
-### 🔹 **⚡Flash Loan Arbitrage Contract**
-🔗 [GitHub Repo](https://github.com/AryaSingh22/Flash-Loan-Arbitrage)      
-💡 Advanced flash loan logic for **DEX price discrepancies** & **multi-step swaps**. 
+### 🔹 **Decentralized Escrow Contract with Dispute Resolution**  
+🔗 [GitHub Repo](https://github.com/AryaSingh22/Decentralized-Escrow)  
+💡 Trustless escrow smart contract with custom signature validation, guardian-based recovery, and fallback timeouts.  
+- Gas-optimized & fully audited  
+- Supports multi-step dispute resolution  
+- Deployed on Polygon testnet  
+
+---
+
+### 🔹 **Flash Loan Arbitrage Infrastructure**  
+🔗 [GitHub Repo](https://github.com/AryaSingh22/The-Flash-Loan)  
+💡 Advanced smart contract framework for flash loan-based arbitrage, DEX price discrepancy detection, and cross-chain strategies.  
+- Automated multi-step token swaps  
+- Tested on Ethereum, Polygon, and BSC testnets  
+- Designed for **risk mitigation and gas efficiency**  
+
+---
+
+### 🔹 **Medical Patient Records System (On-Chain & Privacy-Preserving)**  
+🔗 [GitHub Repo](https://github.com/AryaSingh22/Medical-Patients-Record-System)  
+💡 Decentralized healthcare records with encrypted IPFS storage, RBAC access control, and audit logging.  
+- Fully decentralized and secure  
+- Focused on **privacy compliance and auditability**  
+- Next.js + Solidity full-stack DApp  
 
 ---
 
@@ -58,8 +88,6 @@
   <a href="mailto:singharya2209@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/AryaSingh22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AryaSingh22&style=for-the-badge&color=00F7FF" />
