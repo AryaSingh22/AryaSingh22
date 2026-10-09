@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Arya Singh — protocol and smart-contract engineer working across Cosmos SDK, Solana and EVM">
+  <title>Arya Singh — Cosmos SDK · Solana · EVM</title>
+  <style>
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    .live { animation: glow 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes glow { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+    @media (prefers-reduced-motion: reduce) {
+      .cursor, .live { animation: none; }
+      .pulse { display: none; }
+    }
+  </style>
+  <defs>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="358" rx="16"/></clipPath>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="0.45" stop-color="#0d1117" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="#0d1117"/>
+    <g stroke="#161b22" stroke-width="1">
+    <line x1="0" y1="0" x2="0" y2="360"/>
+    <line x1="40" y1="0" x2="40" y2="360"/>
+    <line x1="80" y1="0" x2="80" y2="360"/>
+    <line x1="120" y1="0" x2="120" y2="360"/>
+    <line x1="160" y1="0" x2="160" y2="360"/>
+    <line x1="200" y1="0" x2="200" y2="360"/>
+    <line x1="240" y1="0" x2="240" y2="360"/>
+    <line x1="280" y1="0" x2="280" y2="360"/>
+    <line x1="320" y1="0" x2="320" y2="360"/>
+    <line x1="360" y1="0" x2="360" y2="360"/>
+    <line x1="400" y1="0" x2="400" y2="360"/>
+    <line x1="440" y1="0" x2="440" y2="360"/>
+    <line x1="480" y1="0" x2="480" y2="360"/>
+    <line x1="520" y1="0" x2="520" y2="360"/>
+    <line x1="560" y1="0" x2="560" y2="360"/>
+    <line x1="600" y1="0" x2="600" y2="360"/>
+    <line x1="640" y1="0" x2="640" y2="360"/>
+    <line x1="680" y1="0" x2="680" y2="360"/>
+    <line x1="720" y1="0" x2="720" y2="360"/>
+    <line x1="760" y1="0" x2="760" y2="360"/>
+    <line x1="800" y1="0" x2="800" y2="360"/>
+    <line x1="840" y1="0" x2="840" y2="360"/>
+    <line x1="880" y1="0" x2="880" y2="360"/>
+    <line x1="920" y1="0" x2="920" y2="360"/>
+    <line x1="960" y1="0" x2="960" y2="360"/>
+    <line x1="1000" y1="0" x2="1000" y2="360"/>
+    <line x1="1040" y1="0" x2="1040" y2="360"/>
+    <line x1="1080" y1="0" x2="1080" y2="360"/>
+    <line x1="1120" y1="0" x2="1120" y2="360"/>
+    <line x1="1160" y1="0" x2="1160" y2="360"/>
+    <line x1="1200" y1="0" x2="1200" y2="360"/>
+    <line x1="0" y1="0" x2="1200" y2="0"/>
+    <line x1="0" y1="40" x2="1200" y2="40"/>
+    <line x1="0" y1="80" x2="1200" y2="80"/>
+    <line x1="0" y1="120" x2="1200" y2="120"/>
+    <line x1="0" y1="160" x2="1200" y2="160"/>
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+    <line x1="0" y1="280" x2="1200" y2="280"/>
+    <line x1="0" y1="320" x2="1200" y2="320"/>
+    <line x1="0" y1="360" x2="1200" y2="360"/>
+    </g>
+    <rect width="1200" height="360" fill="url(#fade)"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="16" fill="none" stroke="#262c36" stroke-width="1.5"/>
+
+  <!-- block header line -->
+  <text x="64" y="66" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#7d8590" letter-spacing="0.5">BLOCK #2026 · HEADER</text>
+  <line x1="64" y1="80" x2="1136" y2="80" stroke="#262c36" stroke-width="1"/>
+
+  <!-- name + tagline -->
+  <text x="62" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#e6edf3" letter-spacing="-1.5">Arya Singh</text>
+  <text x="64" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="20" fill="#7d8590">Protocol &amp; smart-contract engineer. Chain internals, DeFi infra, and the tooling between them.</text>
+
+  <!-- key/value fields -->
+  <text x="64" y="236" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#7d8590">proposer</text><text x="168" y="236" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#e6edf3">AryaSingh22</text><text x="64" y="262" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#7d8590">chains</text><text x="168" y="262" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#e6edf3">cosmos-sdk · solana · evm</text><text x="64" y="288" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#7d8590">based</text><text x="168" y="288" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#e6edf3">india · btech cs, iiit bhubaneswar</text><text x="64" y="314" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#7d8590">status</text><circle class="live" cx="174" cy="309" r="4.5" fill="#19e39a"/><text x="186" y="314" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#19e39a">shipping</text><rect class="cursor" x="258" y="301" width="8" height="16" fill="#19e39a"/>
+
+  <!-- the chain -->
+  <text x="640" y="212" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7d8590">// where I commit</text>
+  <line x1="790" y1="274" x2="815" y2="274" stroke="#3d444d" stroke-width="1.5"/><circle class="pulse" r="3" cx="790" cy="274" opacity="0" fill="#e6edf3"><animate attributeName="cx" from="790" to="815" dur="1.6s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.0s" repeatCount="indefinite"/></circle><line x1="965" y1="274" x2="990" y2="274" stroke="#3d444d" stroke-width="1.5"/><circle class="pulse" r="3" cx="965" cy="274" opacity="0" fill="#e6edf3"><animate attributeName="cx" from="965" to="990" dur="1.6s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+  
+  <g transform="translate(640,226)">
+    <rect width="150" height="96" rx="10" fill="#0f141b" stroke="#9a9cff" stroke-width="1.5"/>
+    <path d="M0.75 26 V10 A9.25 9.25 0 0 1 10 0.75 H140 A9.25 9.25 0 0 1 149.25 10 V26 Z" fill="#9a9cff" fill-opacity="0.14"/>
+    <circle cx="14" cy="13" r="3.5" fill="#9a9cff"/>
+    <text x="26" y="17.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9a9cff">cosmos-sdk</text>
+    <text x="14" y="50" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#7d8590">go · cometbft</text>
+    <text x="14" y="67" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#7d8590">ibc · evm module</text>
+    <text x="14" y="84" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#3d444d">prev: 0x00…</text>
+  </g>
+  <g transform="translate(815,226)">
+    <rect width="150" height="96" rx="10" fill="#0f141b" stroke="#19e39a" stroke-width="1.5"/>
+    <path d="M0.75 26 V10 A9.25 9.25 0 0 1 10 0.75 H140 A9.25 9.25 0 0 1 149.25 10 V26 Z" fill="#19e39a" fill-opacity="0.14"/>
+    <circle cx="14" cy="13" r="3.5" fill="#19e39a"/>
+    <text x="26" y="17.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#19e39a">solana</text>
+    <text x="14" y="50" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#7d8590">rust · anchor</text>
+    <text x="14" y="67" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#7d8590">token-2022 · jito</text>
+    <text x="14" y="84" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#3d444d">prev: 0xc0…</text>
+  </g>
+  <g transform="translate(990,226)">
+    <rect width="150" height="96" rx="10" fill="#0f141b" stroke="#c9d1d9" stroke-width="1.5"/>
+    <path d="M0.75 26 V10 A9.25 9.25 0 0 1 10 0.75 H140 A9.25 9.25 0 0 1 149.25 10 V26 Z" fill="#c9d1d9" fill-opacity="0.14"/>
+    <circle cx="14" cy="13" r="3.5" fill="#c9d1d9"/>
+    <text x="26" y="17.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#c9d1d9">evm</text>
+    <text x="14" y="50" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#7d8590">solidity</text>
+    <text x="14" y="67" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#7d8590">foundry · 4337</text>
+    <text x="14" y="84" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#3d444d">prev: 0x5f…</text>
+  </g>
+</svg>
