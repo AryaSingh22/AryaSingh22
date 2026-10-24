@@ -1,4 +1,4 @@
-<picture>
+<picture> 
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
   <img alt="Arya Singh — protocol and smart-contract engineer across Cosmos SDK, Solana and EVM" src="assets/header-dark.svg" width="100%">
